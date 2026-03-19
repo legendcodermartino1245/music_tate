@@ -356,3 +356,33 @@ The vocal must be embedded within the sonic environment, not positioned in front
 ## 🔑 Core principle
 
 > If the vocal feels like it’s performing *at me* instead of living *inside the track*, it fails.
+
+# Lyrical Implication Rule
+
+## Definition  
+Lyrics should imply emotion rather than explicitly state it. Meaning should emerge through suggestion, tone, and context rather than direct explanation.
+
+---
+
+## ✔ Positive signals
+- emotion is suggested, not spelled out  
+- lines feel open to interpretation  
+- fragmented or internal phrasing  
+- understated emotional tone  
+- meaning builds gradually  
+- lyrics feel like thoughts rather than statements  
+
+---
+
+## ❌ Failure conditions
+- emotion is explicitly explained  
+- overly literal or “on the nose” writing  
+- dramatic or theatrical phrasing  
+- narrative dominates over atmosphere  
+- lyrics demand a specific emotional response  
+
+---
+
+## 🔑 Core principle
+
+> Emotion should be discovered, not delivered.
