@@ -132,12 +132,9 @@ Two valid categories:
 
 ---
 
-
 ### 13. Production System Type Rule
 
 > Tracks must be evaluated relative to their underlying production system.
-
-
 
 ---
 
@@ -146,6 +143,14 @@ Two valid categories:
 Artist fit is not stable across a catalog.
 For albums, fit is judged by era-specific execution.
 For tracks, fit can require track-specific execution.
+
+---
+
+15. Album Identity Filter
+
+A groove-valid artist does not automatically become a top album artist.
+
+---
 
 ## Summary
 
