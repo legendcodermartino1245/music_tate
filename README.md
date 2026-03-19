@@ -386,3 +386,61 @@ Lyrics should imply emotion rather than explicitly state it. Meaning should emer
 ## 🔑 Core principle
 
 > Emotion should be discovered, not delivered.
+
+
+# Artist Intent & Behavior Rules
+
+## Artist Intent Rule
+
+### Definition  
+A track must be evaluated based on its intended role and internal logic. Success is determined by how well the execution aligns with that intent while maintaining system integrity.
+
+---
+
+### ✔ Positive signals
+- intent of the track is clear  
+- all elements support the same goal  
+- vocal, production, and lyrics align with intent  
+- no element contradicts the intended system  
+
+---
+
+### ❌ Failure conditions
+- unclear or conflicting intent  
+- elements working against each other  
+- execution does not match the intended role  
+- intent is achieved but breaks system integrity  
+
+---
+
+### 🔑 Core principle
+
+> A track succeeds when it fully becomes what it is trying to be — without breaking its own system.
+
+---
+
+## Artist Behavior Rule
+
+### Definition  
+Each artist has a natural way of creating impact (“way of hitting”). This must be recognized and evaluated separately from personal preference.
+
+---
+
+### ✔ Positive signals
+- artist’s delivery style is clear and consistent  
+- execution matches their natural strengths  
+- the track fully expresses their intended behavior  
+
+---
+
+### ❌ Failure conditions
+- artist works against their own strengths  
+- inconsistent or confused delivery style  
+- attempt to adopt a style that doesn’t fit their identity  
+
+---
+
+### 🔑 Core principle
+
+> I evaluate whether an artist succeeds at their own style, before deciding if that style fits my system.
+
