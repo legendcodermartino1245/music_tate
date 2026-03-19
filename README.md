@@ -287,7 +287,118 @@ Only after passing Phase 1:
 - Prevents vocal-led bias and aesthetic leakage
 
 
+### 20. Anchor Element Exception Rule
 
+> A track may bypass structural failure if it contains a dominant, identity-defining element that sustains perceived cohesion across the track.
+
+---
+
+A single production element can function as a **system anchor**, even when the overall track structure does not meet core system requirements.
+
+This element must:
+
+- define the identity of the track  
+- provide continuous perceptual cohesion  
+- behave rhythmically or texturally like a groove substitute  
+- remain present or influential across the full duration  
+
+---
+
+**Pass conditions:**
+
+- the anchor element is strong enough to:
+  - mask structural segmentation  
+  - reduce perceived discontinuity  
+  - maintain listener immersion  
+
+- the track feels coherent **because of the element**, not because of full system integrity  
+
+---
+
+**Fail conditions:**
+
+- the element is:
+  - momentary or section-dependent  
+  - purely melodic without rhythmic integration  
+  - unable to sustain cohesion across the full track  
+
+---
+
+**Important:**
+
+- this rule does **not** upgrade the track to full system validity  
+- it classifies the track as an **exception case**, not a core example  
+
+---
+
+**Purpose of this rule:**
+
+- explains why certain structurally invalid tracks still rank highly  
+- prevents misclassification of “anchor-driven” tracks as full system passes  
+- preserves system integrity while allowing real-world listening behavior  
+
+---
+
+**Example:**
+
+- A track may fail:
+  - Groove Identity Gate  
+  - System Continuity Gate  
+  - Voice as Instrument Gate  
+
+- but still rank highly due to:
+  - a dominant, repeating, identity-defining production element
+
+---
+
+**Interpretation:**
+
+> The system is broken, but the anchor holds the experience together.
+
+---
+
+### 21. Voice Anchor Exception Rule
+
+> The vocal may act as an emotional anchor without being fully embedded, provided it does not break system cohesion.
+
+**Conditions:**
+- vocal is controlled (no dynamic spikes)
+- tonally consistent
+- aligned with system pacing
+- the track maintains one continuous environment
+- requires at least a valid Groove Identity pass (Tier 1 or strong Tier 2)
+
+**Impact:**
+- track remains a system pass
+- receives a slight downgrade in final ranking
+
+**Constraints:**
+- does not override Groove Identity
+- does not bypass Phase 1 gates
+- does not promote a track to a higher tier
+- applies only after full system validation
+
+**Interpretation:**
+> Groove defines the system. Voice may carry emotion — but not authority.
+
+---
+
+### 22. Writing Compensation Rule
+
+> Exceptional lyrical or conceptual writing may increase a track’s personal valuation, but must not alter its structural classification.
+
+**Allows:**
+- stronger emotional attachment
+- higher personal replay value
+- subjective preference boost
+
+**Does not allow:**
+- converting a fail → pass
+- upgrading system tier
+- influencing Phase 1 evaluation
+
+**Interpretation:**
+> Writing increases meaning, not system validity.
 ## Summary
 
 A perfect Mart-coded track:
@@ -297,3 +408,5 @@ A perfect Mart-coded track:
 - has **vocals embedded in the system**
 - maintains **one continuous world**
 - prioritizes **cohesion over perfection**
+
+---
