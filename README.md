@@ -212,6 +212,82 @@ Grooves can be ranked by how strongly they define and sustain the system:
 
 Higher-tier grooves take priority in evaluation.
 
+
+## 19. Evaluation Order (Execution Layer)
+
+> This section defines how the system is applied in practice.  
+> It does not override the rules — it enforces them.
+
+---
+
+### Phase 1 — Hard Gates (fail fast)
+
+A track must pass each step in order.  
+Failure at any stage = rejection.
+
+#### 1. Groove Identity Gate
+- Does the groove define the track’s identity?
+- Tier 1 or strong Tier 2 → continue  
+- Weak / Tier 3 → reject  
+
+---
+
+#### 2. System Continuity Gate
+- Does the track feel like one continuous environment?
+- No breaks → continue  
+- Noticeable structural switches → reject  
+
+---
+
+#### 3. Voice as Instrument Gate (Critical)
+- Does the vocal behave as part of the system?
+- Apply removal test strictly:
+
+  - If removing the vocal **collapses the track** → reject  
+  - If the track remains structurally intact → continue  
+
+---
+
+#### 4. Living Minimalism Gate
+- Is the system internally alive?
+- Micro-variation / subtle motion → continue  
+- Static loop / frozen atmosphere → reject  
+
+---
+
+#### 5. Feature Integrity Gate (if applicable)
+- Do all voices belong to the same system?
+- Yes → continue  
+- Mismatch in energy, texture, or rhythm → reject  
+
+---
+
+#### 6. Structural Purity Gate
+- Does the track work as released?
+- Fully intact → continue  
+- Requires mental edits (“remove X”) → downgrade or reject  
+
+---
+
+### Phase 2 — Qualification (after passing all gates)
+
+Only after passing Phase 1:
+
+- Classify **groove tier (1–3)**  
+- Assess **vocal embedding level (0–3)**  
+- Rank **overall system strength**
+
+---
+
+### Bias Control Rule
+
+> Initial vocal impression must not influence structural evaluation.
+
+- Voice is noticed first, but evaluated after groove  
+- Prevents vocal-led bias and aesthetic leakage
+
+
+
 ## Summary
 
 A perfect Mart-coded track:
