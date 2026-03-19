@@ -454,19 +454,251 @@ Preferred writing tends to be:
 **Interpretation:**
 > The best writing strengthens the world the track already creates.
 
+---
+
+## Interpretation Safeguards
+
+These safeguards do not override the core rules.  
+They exist to prevent false negatives caused by overly rigid application.
+
+---
+
+### 25. Cohesion Source Safeguard
+
+> Groove is the default source of cohesion, but not the only possible one.
+
+A track may achieve system coherence through:
+- groove
+- harmonic atmosphere
+- recurring melodic figure
+- sustained textural anchor
+
+**Constraint:**
+- non-groove cohesion must still feel continuous and identity-defining
+- it must not be confused with prettiness, decoration, or isolated musical quality
+
+**Interpretation:**
+> If groove is not the only glue, identify what else is holding the system together before rejecting the track.
+
+---
+
+### 26. Vocal Removal Test Limitation
+
+> The vocal removal test is a diagnostic tool, not an absolute law in isolation.
+
+If removing the vocal collapses the track, first determine **why**:
+
+- **Fail case:** the vocal was acting as a detached lead layer carrying a weak system
+- **Possible pass case:** the vocal was functioning as an integrated structural component inside an otherwise coherent system
+
+**Constraint:**
+- removal failure proves detachment only when the vocal behaves as external authority
+- it does not automatically disqualify a vocal that functions as native system material
+
+**Interpretation:**
+> A vocal can be structurally necessary without being structurally dominant.
+
+---
+
+### 27. Controlled Development Safeguard
+
+> Gradual development is not the same as system break.
+
+A track may increase in intensity, density, or emotional weight without failing continuity, provided that:
+- the world remains recognizably the same
+- the groove or anchor logic remains intact
+- escalation feels like expansion, not replacement
+
+**Fail condition:**
+- if the track abandons its original world rather than develops it, continuity fails
+
+**Interpretation:**
+> Growth inside the same world is valid. Continuity fails only when the world itself is replaced.
+
+---
+
+### 28. Album-Function Classification Safeguard
+
+> Album-function tracks must be judged by sequence-role, not by standalone standards alone.
+
+Album-function tracks should be classified separately as:
+- **album-function valid**
+- **album-function weak**
+- **album-function reject**
+
+**Constraint:**
+- album-function status does not convert a weak standalone track into a core system pass
+- it only recognizes that some tracks succeed primarily through placement, transition, or atmosphere in sequence
+
+**Interpretation:**
+> A track may fail as a standalone system track while still succeeding as an album-function track.
+
+---
+
+
+
+### 29. Vocal Ego Suppression Preference Rule
+
+> Vocal presence should not introduce a dominant performer identity that overrides the production system.
+
+The ideal vocal behaves as a **low-ego component** within the system — contributing texture, rhythm, and tone without asserting itself as the primary focal point.
+
+---
+
+#### Pass (preferred behavior):
+- restrained delivery (no theatrical projection)
+- low perceived “ego” or performer dominance  
+- blends into groove and texture  
+- functions as rhythmic and tonal support  
+- presence feels *embedded*, not attention-seeking  
+
+---
+
+#### Partial / Conditional:
+- vocal is noticeable but controlled  
+- may carry identity, but does not override system cohesion  
+- acceptable when groove dominance remains intact  
+
+---
+
+#### Fail (preference-level, not structural):
+- strong performer identity dominates perception  
+- vocal draws primary attention away from groove  
+- expressive spikes (ad-libs, runs, emphasis) break immersion  
+- delivery feels like a **performance layer**, not a system component  
+
+---
+
+#### Constraint:
+- this rule **does not override structural validity**
+- a track can pass Phase 1 but still be downgraded by this rule  
+
+---
+
+#### Relationship to existing rules:
+- extends **Voice as Instrument Rule (12)**
+- operates **after Phase 1 validation**
+- refines ranking, not classification  
+
+---
+
+#### Interpretation:
+> The best vocals feel like part of the machine — not the person operating it.
+
+
+
+
+
+
+
+
+
+----
+
+
+
+
+## 30. System Scope Definition
+
+> This system is designed to evaluate **groove-led, production-centric music**.
+
+It is not intended as a universal evaluation framework for all genres or artistic approaches.
+
+---
+
+### Valid domain (primary focus):
+- R&B (especially minimal / groove-led)
+- Timbaland / Neptunes / Rich Harrison lineage
+- minimal pop with strong rhythmic identity
+- alt-R&B with cohesive production systems
+
+---
+
+### Limited compatibility:
+- vocal-driven pop
+- singer-songwriter material
+- rock / band-oriented music
+- highly narrative or lyric-first compositions
+
+These may be evaluated, but are not the system’s native domain.
+
+---
+
+### Constraint:
+- a “fail” outside the system’s domain is not a value judgment  
+- it indicates **system mismatch**, not artistic inferiority  
+
+---
+
+### Interpretation:
+> This system measures *system coherence in groove-led production* — not universal musical quality.
 
 
 
 ---
 
 
+
+
+## 31. Conflict Resolution Rule
+
+> When multiple rules appear to conflict, priority is determined by evaluation order and structural importance.
+
+---
+
+### Priority hierarchy:
+
+1. **Phase 1 Gates (Rule 19)**
+   - absolute authority  
+   - cannot be overridden by preferences or exceptions  
+
+2. **Core Rules (1–6)**
+   - define the system’s foundation  
+   - take precedence over all later refinements  
+
+3. **Structural Rules (7–18)**
+   - refine system behavior  
+   - cannot contradict Phase 1 outcomes  
+
+4. **Exception Rules (20–21)**
+   - allow classification flexibility  
+   - do not convert failures into full system passes  
+
+5. **Preference Rules (22–24, 29)**
+   - affect ranking and personal valuation only  
+   - never influence structural classification  
+
+6. **Safeguards (25–28)**
+   - prevent false negatives  
+   - cannot be used to justify clear structural failure  
+
+7. **Scope Definition (30)**
+   - defines applicability, not evaluation outcome  
+
+---
+
+### Conflict handling:
+
+- If a **preference contradicts structure** → structure wins  
+- If an **exception contradicts a Phase 1 failure** → failure stands  
+- If a **safeguard appears to override a rule** → re-evaluate, not override  
+
+---
+
+### Interpretation:
+> The system evaluates structure first, explains edge cases second, and applies taste last.
+
+---
 ## Summary
+
 A perfect Mart-coded track:
 
-- is **groove-led**
-- feels **internally alive**
-- has **vocals embedded in the system**
-- maintains **one continuous world**
-- prioritizes **cohesion over perfection**
+- is **groove-led (identity defined by rhythm)**
+- feels **internally alive (no static minimalism)**
+- has **vocals embedded with low ego presence**
+- maintains **one continuous, self-contained world**
+- prioritizes **system cohesion over technical perfection**
 
 ---
+
+> The track functions as a system — not a performance.
