@@ -161,3 +161,22 @@ A perfect Mart-coded track:
 - has **vocals embedded in the system**
 - maintains **one continuous world**
 - prioritizes **cohesion over perfection**
+
+### 16. Artist Halo Rejection Rule
+> A compatible artist does not earn automatic track validity.
+
+- artist-level fit must never substitute for track-level proof  
+- each track must independently satisfy the system  
+- adjacency in producer, era, or aesthetic is not enough  
+
+**Failure mode this prevents:**
+- “great artist, probably great fit” ranking inflation  
+
+---
+
+### 17. Structural Purity Rule
+> A track only counts in full if its functioning version is the actual track experience.
+
+- if the best version requires mentally removing a feature, downgrade it  
+- if one element breaks the system, the track loses full-status  
+- “would be great without X” is not the same as a true pass  
