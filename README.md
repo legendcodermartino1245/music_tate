@@ -196,6 +196,22 @@ A groove-valid artist does not automatically become a top album artist.
 
 ---
 
+### 18. Groove Hierarchy Rule
+
+> Not all grooves carry equal structural weight.
+
+Grooves can be ranked by how strongly they define and sustain the system:
+
+- **Tier 1 — Hypnotic loop groove**
+  - continuous, circular, no release
+  - defines the entire system
+- **Tier 2 — Percussive identity groove**
+  - rhythm drives identity, but allows more structure
+- **Tier 3 — Supportive groove**
+  - groove exists but shares role with melody/harmony
+
+Higher-tier grooves take priority in evaluation.
+
 ## Summary
 
 A perfect Mart-coded track:
