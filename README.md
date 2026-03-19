@@ -471,3 +471,30 @@ A track may only fully “activate” when all core elements align into a cohere
 
 > A great track doesn’t just play — it locks into place.
 
+# Alignment over Style Rule
+
+## Definition  
+An element can be unconventional or stylistically unusual, as long as it aligns with the groove system and does not disrupt it.
+
+---
+
+## ✔ Positive signals
+- unique or unconventional delivery that still follows the groove  
+- stylistic quirks that enhance the system  
+- individuality expressed within structure  
+- vocal remains rhythmically and emotionally aligned with the track  
+
+---
+
+## ❌ Failure conditions
+- style overrides system  
+- delivery does not match groove logic  
+- uniqueness creates disconnection instead of cohesion  
+- vocal feels detached, smeared, or misaligned  
+
+---
+
+## 🔑 Core principle
+
+> It’s not about being normal — it’s about being aligned.
+
