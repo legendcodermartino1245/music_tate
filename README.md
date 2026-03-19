@@ -76,10 +76,15 @@ The identity of the track is defined by:
 ---
 
 ### 9. Feature Integrity Rule
-> Features must match the production’s energy and texture
 
-- mismatch → breaks system  
-- acceptable solution → mentally isolate core track  
+> Features must conform to the production system, not compete with it.
+
+- mismatch in energy, texture, or rhythmic behavior → system break  
+- successful feature → behaves as part of the arrangement, not a separate layer  
+
+**Failure handling:**
+- if broken → evaluate the track as if the feature is removed
+
 
 ---
 
@@ -124,6 +129,15 @@ Two valid categories:
 - static minimalism (no internal motion)  
 - mismatched features  
 - disjoint arrangements  
+
+---
+
+
+### 13. Production System Type Rule
+
+> Tracks must be evaluated relative to their underlying production system.
+
+
 
 ---
 
