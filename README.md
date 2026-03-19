@@ -141,6 +141,12 @@ Two valid categories:
 
 ---
 
+14. Era / Execution Rule
+
+Artist fit is not stable across a catalog.
+For albums, fit is judged by era-specific execution.
+For tracks, fit can require track-specific execution.
+
 ## Summary
 
 A perfect Mart-coded track:
