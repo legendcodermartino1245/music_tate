@@ -406,13 +406,19 @@ This element must:
 
 ---
 
-### 23. Mixing / Mastering Presentation Preference Rule
+### 23. Engineering Presentation Preference Rule
 
-> Favor engineers whose work tends toward close, tactile, high-definition presentation.
+> Favor engineering credits associated with close, tactile, high-definition presentation.
 
 This is a **presentation preference**, not a structural validity rule.
 
 It may increase initial attraction, replay interest, or discovery priority, but it must not influence Phase 1 classification.
+
+**Relevant credits may include:**
+- recording engineering
+- vocal engineering
+- mixing
+- mastering
 
 **Typical markers:**
 - intimate foreground placement
@@ -426,7 +432,7 @@ It may increase initial attraction, replay interest, or discovery priority, but 
 - it cannot create groove identity, system continuity, or vocal embedding where those are absent
 
 **Interpretation:**
-> Credits may raise probability of appeal, but structure still decides.
+> Engineering credits may raise probability of appeal, but structure still decides.
 
 ---
 
