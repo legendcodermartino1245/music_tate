@@ -408,7 +408,7 @@ This element must:
 
 ### 23. Engineering Presentation Preference Rule
 
-> Favor engineering credits associated with close, tactile, high-definition presentation.
+> Favor engineering credits that consistently produce close, tactile, high-definition presentation.
 
 This is a **presentation preference**, not a structural validity rule.
 
