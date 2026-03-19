@@ -1,500 +1,138 @@
-# Mart Music System — Core Rewrite v5
+# Mart Music System — Conservative Upgrade (v6)
 
 ## Core formula
 
-A Mart-coded song usually works through **hypnotic groove**, **embedded vocal placement**, and **uninterrupted flow**.
+A Mart-coded track works through **groove as architecture**, **embedded vocal placement**, and **continuous system integrity**.
 
-The ideal track does not feel like a singer performing on top of production. It feels like **voice and production are locked into the same moving system**. The groove carries the identity, the vocal sits inside it, and the song maintains a stable internal world from start to finish.
+The track should feel like:
+> **one self-contained moving system**  
+—not a vocal on top of production.
+
+---
 
 ## Main principle
 
-The center of my taste is not “big vocals” or “big songwriting” on their own. It is **groove as architecture**.
+The identity of the track is defined by:
 
-I respond most strongly when:
-- the rhythm defines the song’s identity
-- the vocal is embedded inside the production
-- the arrangement feels continuous rather than sectional
-- the track creates one stable internal environment
+> **the groove, not the vocal or lyrics**
 
-## Two successful routes into my taste
-
-My taste has two main successful routes.
-
-### 1. Pop adrenaline
-
-This lane works through **precision structure**, **signature hooks**, **sharp architecture**, and **maximal craft without chaos**.
-
-These songs are immediate and highly designed, but they still feel controlled. Even when the production is dense or dramatic, it must still behave like **one locked system** rather than a pile of disconnected moments.
-
-### 2. Groove immersion
-
-This lane works through **rhythm-first design**, **embedded vocals**, **negative space**, **atmosphere**, and **continuous flow**.
-
-These songs feel hypnotic rather than explosive. The pleasure comes from staying inside the groove, not from waiting for a big payoff.
-
-## Dual-pass rule
-
-A song only fully passes if **both sides** work:
-- the **production** creates a strong enough world
-- the **voice** deepens that world rather than flattening it
-
-If the production fits but the voice feels too blank, flat, boring, or detached, the song fails.
-
-If the voice fits but the production lacks enough pocket, distinction, space, groove identity, or internal coherence, the song also fails.
-
-A partial fit is still only a partial fit. I do not want songs that pass on atmosphere alone, voice alone, or production alone.
-
-## Rhythmic pocket rule
-
-One of the strongest positive triggers in my taste is **slight misalignment between the rhythm grid and the vocal phrasing**.
-
-I respond strongly to:
-- pocket
-- swing
-- syncopation
-- phrasing that sits slightly behind, across, or inside the beat
-
-I am especially drawn to songs where the groove feels alive because the vocal does not land too squarely on top of the rhythm.
-
-## Vocal placement rule
-
-The voice should feel **embedded**, not dominant.
-
-But **embedded is necessary, not sufficient**. A song can pass the production test and still fail if the voice feels too flat, blank, or boring. I do not just want a vocal that stays out of the way. I want a vocal that stays inside the groove **while still adding character, texture, or emotional pull**.
-
-Preferred vocal qualities:
-- smooth but characterful tone
-- rhythmic phrasing
-- controlled emotional delivery
-- layered harmonies used as texture
-- minimal belting
-- vocals functioning as part of the arrangement, not above it
-
-The best vocals in my system do not interrupt the groove. They deepen it. If the production fits but the voice does not make the groove worth living inside, the song still fails.
-
-## Economy of sound rule
-
-I respond strongly to **economy of sound**.
-
-That means:
-- only a few elements are used
-- each sound is highly distinctive
-- every element feels intentional
-- the groove carries most of the track’s identity
-- the mix leaves space around the rhythm
-
-This is not minimalism in a generic sense. It is **highly selective production design** where a small number of sounds do a huge amount of work.
-
-## Groove-first production rule
-
-In one of my favorite production lanes, **the rhythm is the hook**.
-
-I am highly responsive to songs where:
-- the drums carry the track
-- percussion creates the main identity
-- melody supports the groove rather than replacing it
-- the beat has enough personality to function like a lead element
-
-This is one of the clearest ways a track becomes addictive for me.
-
-## Space in the mix rule
-
-Space matters almost as much as the sounds themselves.
-
-I strongly prefer mixes where:
-- there is air around the groove
-- nothing feels cluttered
-- silence or near-silence increases impact
-- new elements arrive with purpose
-- the track breathes
-
-A dense arrangement can still work, but only if it preserves clarity and internal flow.
-
-## Producer personality rule
-
-I respond strongly when the **producer’s world is stronger than the singer’s performance**.
-
-That means:
-- the production creates the environment
-- the vocal lives inside that environment
-- the track feels shaped by rhythmic and sonic identity first
-- the singer does not overpower the system
-
-This is why I often prefer artists and songs where the vocal is treated like part of the beat-world rather than the sole center of attention.
-
-## Flow rule
-
-I strongly prefer songs with **uninterrupted internal flow**.
-
-That usually means:
-- no jarring energy spikes
-- no unnecessary attitude shifts
-- no vocals that suddenly try to sell the song too hard
-- no features that break the track’s identity
-- no arrangement choices that pull me out of the world of the song
-
-A song can be detailed, dense, or highly designed, but it still needs to feel like **one continuous environment**.
-
-## Pop-adrenaline limitation
-
-The pop-adrenaline lane still has to satisfy the main system.
-
-Strong hooks, precision structure, and polished architecture are **not enough on their own**.
-
-Even in a pop-forward track, I still need:
-- a stable internal world
-- vocal and production lock-in
-- no cluttered payoff design
-- enough groove or rhythmic identity to make the song feel inhabited rather than merely performed
-
-If a song feels clever, exciting, or well-made but not inhabitable, it is not a full Mart-coded fit.
-
-## Producer blueprint note
-
-One of the clearest blueprints in my taste is **groove-minimalist production**:
-- few elements
-- deep pocket
-- strong rhythmic identity
-- high distinction between sounds
-- lots of space
-- vocals embedded inside the beat
-
-This is one of the best technical explanations of why certain futuristic R&B and groove-led records hit so hard for me.
-
-## Album-fit rule
-
-An album is not a safe fit just because it contains some Mart-coded songs.
-
-For album-level fit, the record must sustain my system across a substantial part of its runtime:
-- repeated groove-world coherence
-- embedded vocal placement
-- controlled emotional delivery
-- continuity of atmosphere and flow
-- enough production identity to make the album feel like a designed environment
-
-A record with a few perfect songs but too many breaks in voice fit, production fit, or internal world should be treated as a **track-source album**, not a full album-level fit.
-
-## Album-world priority note
-
-At album level, **continuity of world can outrank blueprint purity**.
-
-A record does not need to be maximally sparse, pocket-heavy, or groove-minimalist if it sustains **one intimate, inhabitable system** across the runtime.
-
-If the sequencing, atmosphere, vocal placement, and emotional architecture remain internally locked, the album can still fully pass even when it is softer, denser, warmer, or less obviously beat-forward than my purest blueprint records.
-
-## Soft-atmosphere allowance
-
-The groove does not always have to be aggressively percussive.
-
-A song can still fit when the sense of groove is carried by:
-- softness
-- repetition
-- placement
-- emotional steadiness
-- elegant atmosphere
-
-But this softer lane still needs to feel controlled, intentional, and internally locked. Atmosphere alone is not enough.
-
-## Short-album allowance
-
-A shorter album, mini-album, or tightly sequenced project can qualify more easily if it sustains the world with very little waste.
-
-Brevity can strengthen fit rather than weaken it. I care more about **concentration of system** than runtime for its own sake.
-
-A short record can still count as a full album-level fit if the atmosphere, sequencing, and internal logic stay intact from start to finish.
-
-## Short version
-
-My taste is built around:
-
-**hypnotic groove + embedded vocal + uninterrupted flow**
-
-The song can arrive through **precision pop architecture** or **groove immersion**, but it must still feel like one locked-in system.
-
-A full fit requires **both**:
-- strong production world
-- voice that deepens the groove
-
-At producer level, one of my strongest triggers is:
-
-**economy of sound + groove as identity + space in the mix + vocals inside the production**
-
-
-## Pairing rule
-
-A producer-artist pairing is elite when the artist feels like the **correct vessel** for that production language.
-
-The artist should:
-- deepen the producer’s world, not sit on top of it
-- sound native to the groove, atmosphere, and arrangement
-- preserve the space and identity of the production
-- make the result feel inevitable rather than assembled
-
-A great pairing is not “best singer + best producer.”
-It is **the right voice, scale, restraint, phrasing, and emotional temperature for that exact sonic world**.
-
-## Pairing failure rule
-
-A pairing weakens when:
-- the singer tries too hard for the beat
-- the voice sits on top of the track instead of inside it
-- the production flatters the singer but does not become a unified world
-- a technically stronger singer would actually damage the atmosphere
-- the producer’s language is right, but the artist is the wrong vessel
-
-## Best pairings canon
-
-## Pairing short version
-
-**The best pairing is when the artist sounds native to the producer’s world.**
-
-Or even tighter:
-
-**The voice unlocks the beat instead of merely riding it.**
-
-
-
-
-## 🔊 Vocal Placement Rule (Added)
-
-The vocal does NOT need to be centered or forward. Placement in space is part of the evaluation.
-
-Pass when:
-- Vocal sits inside or behind the groove
-- Vocal feels embedded in the environment
-- Vocal can be offset, distant, or floating
-- Vocal supports the atmosphere instead of dominating it
-
-Fail when:
-- Vocal is too centered / too forward
-- Vocal feels “in your face”
-- Vocal is performing at the listener
-- Vocal breaks the spatial illusion
+- rhythm carries the track  
+- production defines the world  
+- vocals exist *inside* that world  
 
 ---
 
-## 🎛️ Studio Artist > Performer Rule (Added)
+## Core rules (unchanged, preserved)
 
-Prefer artists who function as part of a constructed studio world.
+### 1. Groove-first production
+- rhythm is the primary hook  
+- drums/percussion define identity  
 
-Pass when:
-- Track feels designed and intentional
-- Artist behaves like an element in the production
-- Performance serves the record
-- Focus is on cohesion, not showcasing
+### 2. Economy of sound
+- few elements  
+- each sound is intentional and distinct  
 
-Fail when:
-- Artist performs at the listener
-- Vocal is a spotlight moment
-- Song highlights singer over system
-- Feels live-performance driven
+### 3. Space in the mix
+- no clutter  
+- air around elements  
+- clarity over density  
 
-## Moment-artist vs album-artist rule
+### 4. Vocal embedding
+- voice sits inside production  
+- not layered on top  
 
-Some artists fit my taste best as **moment artists** rather than true **album artists**.
+### 5. Controlled emotion
+- restrained delivery > explosive expression  
+- emotion is implied, not forced  
 
-A strong track fit does **not** automatically mean strong album fit.
-
-An artist can give me:
-- elite singles
-- perfect pockets
-- excellent voice/production lock
-- standout production moments
-- isolated Mart-coded highs
-
-and still fail at the album level because they do not sustain:
-- continuity of world
-- stable voice fit across a full runtime
-- consistent production identity
-- uninterrupted internal flow
-- enough front-to-back concentration
-
-These artists should be treated as **track-source artists** or **moment artists**, not automatic album-level favorites.
-
-This matters because my system evaluates albums differently from tracks.
-
-For tracks, a single perfect lock-in moment can be enough.
-
-For albums, the artist has to sustain the world, maintain the fit, and avoid too many breaks in atmosphere, voice match, or production identity.
-
-So:
-
-**track fit ≠ album fit**
-
-A Mart-coded artist can be:
-- a top-tier track artist
-- a selective singles artist
-- a moment artist with elite peaks
-
-without being a true Mart-coded album artist.
-
-# Vocal Placement Rule
-
-## Definition  
-The vocal must be embedded within the sonic environment, not positioned in front of it. It should behave as part of the groove system rather than as a separate expressive layer.
+### 6. System continuity
+- no hard breaks in energy or world  
+- track feels like one continuous environment  
 
 ---
 
-## ✔ Positive signals
-- vocal sits inside the mix, not on top of it  
-- blends with instrumental textures  
-- feels like part of the groove rather than leading it  
-- requires “listening into” the track rather than demanding attention  
-- restrained, controlled delivery  
+## Carefully added rules (NEW — proven only)
+
+### 7. Living Minimalism Rule
+> Minimal production must contain **internal motion**
+
+**Pass:**
+- micro-variation in groove  
+- subtle rhythmic movement  
+
+**Fail:**
+- static loops  
+- frozen atmosphere  
 
 ---
 
-## ❌ Failure conditions
-- vocal feels **“in your face”**  
-- sits clearly above or detached from the instrumental  
-- demands attention immediately  
-- feels like a performance directed at the listener  
-- overrides or dominates the groove  
+### 8. Dominant Element Override Rule
+> A dominant element (usually groove/production) can override weaker elements
+
+- strong groove can compensate for:
+  - imperfect vocals  
+  - structural flaws  
 
 ---
 
-## 🔑 Core principle
+### 9. Feature Integrity Rule
+> Features must match the production’s energy and texture
 
-> If the vocal feels like it’s performing *at me* instead of living *inside the track*, it fails.
-
-# Lyrical Implication Rule
-
-## Definition  
-Lyrics should imply emotion rather than explicitly state it. Meaning should emerge through suggestion, tone, and context rather than direct explanation.
+- mismatch → breaks system  
+- acceptable solution → mentally isolate core track  
 
 ---
 
-## ✔ Positive signals
-- emotion is suggested, not spelled out  
-- lines feel open to interpretation  
-- fragmented or internal phrasing  
-- understated emotional tone  
-- meaning builds gradually  
-- lyrics feel like thoughts rather than statements  
+### 10. Album vs Track Separation Rule
+> Not all tracks are meant to function standalone
+
+Two valid categories:
+
+**A. Standalone system tracks**
+- must satisfy all core rules  
+
+**B. Album-function tracks**
+- can prioritize atmosphere or transition  
+- evaluated in album context, not isolation  
 
 ---
 
-## ❌ Failure conditions
-- emotion is explicitly explained  
-- overly literal or “on the nose” writing  
-- dramatic or theatrical phrasing  
-- narrative dominates over atmosphere  
-- lyrics demand a specific emotional response  
+### 11. System Integrity > Perfection
+> The strength of the internal system matters more than technical perfection
+
+- cohesive imperfect track > disjoint perfect track  
 
 ---
 
-## 🔑 Core principle
+### 12. Voice as Instrument Rule (refined)
+> Voice must function as part of the groove or texture
 
-> Emotion should be discovered, not delivered.
+**Pass:**
+- rhythmic phrasing  
+- tonal blending  
 
-
-# Artist Intent & Behavior Rules
-
-## Artist Intent Rule
-
-### Definition  
-A track must be evaluated based on its intended role and internal logic. Success is determined by how well the execution aligns with that intent while maintaining system integrity.
-
----
-
-### ✔ Positive signals
-- intent of the track is clear  
-- all elements support the same goal  
-- vocal, production, and lyrics align with intent  
-- no element contradicts the intended system  
+**Fail:**
+- vocal dominance  
+- performance sitting on top of track  
 
 ---
 
-### ❌ Failure conditions
-- unclear or conflicting intent  
-- elements working against each other  
-- execution does not match the intended role  
-- intent is achieved but breaks system integrity  
+## What this system rejects
+
+- vocal-driven tracks without groove foundation  
+- emotionally excessive or uncontrolled delivery  
+- static minimalism (no internal motion)  
+- mismatched features  
+- disjoint arrangements  
 
 ---
 
-### 🔑 Core principle
+## Summary
 
-> A track succeeds when it fully becomes what it is trying to be — without breaking its own system.
+A perfect Mart-coded track:
 
----
-
-## Artist Behavior Rule
-
-### Definition  
-Each artist has a natural way of creating impact (“way of hitting”). This must be recognized and evaluated separately from personal preference.
-
----
-
-### ✔ Positive signals
-- artist’s delivery style is clear and consistent  
-- execution matches their natural strengths  
-- the track fully expresses their intended behavior  
-
----
-
-### ❌ Failure conditions
-- artist works against their own strengths  
-- inconsistent or confused delivery style  
-- attempt to adopt a style that doesn’t fit their identity  
-
----
-
-### 🔑 Core principle
-
-> I evaluate whether an artist succeeds at their own style, before deciding if that style fits my system.
-
-# System Activation Rule
-
-## Definition  
-A track may only fully “activate” when all core elements align into a coherent system. Certain elements (often vocals) can unlock or complete this alignment.
-
----
-
-## ✔ Positive signals
-- a moment where everything suddenly “clicks”  
-- the track becomes immersive instead of observational  
-- all elements align into one coherent system  
-- the listener shifts from hearing the track to being inside it  
-
----
-
-## ❌ Failure conditions
-- the track never reaches full alignment  
-- the system feels incomplete or unstable  
-- the track activates briefly but cannot sustain it  
-- different sections operate under different system logic  
-
----
-
-## 🔑 Core principle
-
-> A great track doesn’t just play — it locks into place.
-
-# Alignment over Style Rule
-
-## Definition  
-An element can be unconventional or stylistically unusual, as long as it aligns with the groove system and does not disrupt it.
-
----
-
-## ✔ Positive signals
-- unique or unconventional delivery that still follows the groove  
-- stylistic quirks that enhance the system  
-- individuality expressed within structure  
-- vocal remains rhythmically and emotionally aligned with the track  
-
----
-
-## ❌ Failure conditions
-- style overrides system  
-- delivery does not match groove logic  
-- uniqueness creates disconnection instead of cohesion  
-- vocal feels detached, smeared, or misaligned  
-
----
-
-## 🔑 Core principle
-
-> It’s not about being normal — it’s about being aligned.
-
+- is **groove-led**
+- feels **internally alive**
+- has **vocals embedded in the system**
+- maintains **one continuous world**
+- prioritizes **cohesion over perfection**
