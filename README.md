@@ -66,12 +66,16 @@ The identity of the track is defined by:
 
 ---
 
-### 8. Dominant Element Override Rule
-> A dominant element (usually groove/production) can override weaker elements
+### 8. Dominant Element Compensation Rule
+> A dominant element (usually groove/production) can compensate for limited weaknesses, but cannot erase core structural failure.
 
-- strong groove can compensate for:
-  - imperfect vocals  
-  - structural flaws  
+- strong groove can offset:
+  - imperfect vocals
+  - minor structural weakness
+
+- it cannot:
+  - convert a broken system into a full pass
+  - override Phase 1 failure without explicit exception handling
 
 ---
 
@@ -399,7 +403,6 @@ This element must:
 
 **Interpretation:**
 > Writing increases meaning, not system validity.
-## Summary
 
 ---
 
@@ -427,6 +430,31 @@ It may increase initial attraction, replay interest, or discovery priority, but 
 
 ---
 
+### 24. Writing Alignment Preference Rule
+
+> Writing is strongest when it supports the track’s existing system rather than competing with it.
+
+Preferred writing tends to be:
+- restrained rather than overstated
+- rhythmically natural to the groove
+- tonally consistent with the production world
+- precise, suggestive, or texturally evocative rather than excessively declarative
+
+**Constraint:**
+- writing may deepen attachment or replay value
+- it does not determine structural validity
+- it must not override groove identity, system continuity, or vocal embedding
+
+**Interpretation:**
+> The best writing strengthens the world the track already creates.
+
+
+
+
+---
+
+
+## Summary
 A perfect Mart-coded track:
 
 - is **groove-led**
