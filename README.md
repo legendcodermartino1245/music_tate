@@ -327,3 +327,32 @@ A Mart-coded artist can be:
 - a moment artist with elite peaks
 
 without being a true Mart-coded album artist.
+
+# Vocal Placement Rule
+
+## Definition  
+The vocal must be embedded within the sonic environment, not positioned in front of it. It should behave as part of the groove system rather than as a separate expressive layer.
+
+---
+
+## ✔ Positive signals
+- vocal sits inside the mix, not on top of it  
+- blends with instrumental textures  
+- feels like part of the groove rather than leading it  
+- requires “listening into” the track rather than demanding attention  
+- restrained, controlled delivery  
+
+---
+
+## ❌ Failure conditions
+- vocal feels **“in your face”**  
+- sits clearly above or detached from the instrumental  
+- demands attention immediately  
+- feels like a performance directed at the listener  
+- overrides or dominates the groove  
+
+---
+
+## 🔑 Core principle
+
+> If the vocal feels like it’s performing *at me* instead of living *inside the track*, it fails.
