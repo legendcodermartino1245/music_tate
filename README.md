@@ -76,15 +76,13 @@ The identity of the track is defined by:
 ---
 
 ### 9. Feature Integrity Rule
-
 > Features must conform to the production system, not compete with it.
 
-- mismatch in energy, texture, or rhythmic behavior → system break  
-- successful feature → behaves as part of the arrangement, not a separate layer  
+- mismatch in energy, texture, rhythmic behavior, or vocal presence → system break  
+- successful feature → behaves as part of the arrangement, not as a separate performance layer  
 
-**Failure handling:**
-- if broken → evaluate the track as if the feature is removed
-
+**Purpose of this rule:**
+- identifies whether the feature preserves or breaks system integrity  
 
 ---
 
@@ -138,29 +136,19 @@ Two valid categories:
 
 ---
 
-14. Era / Execution Rule
+### 14. Era / Execution Rule
 
-Artist fit is not stable across a catalog.
-For albums, fit is judged by era-specific execution.
+Artist fit is not stable across a catalog.  
+For albums, fit is judged by era-specific execution.  
 For tracks, fit can require track-specific execution.
 
 ---
 
-15. Album Identity Filter
+### 15. Album Identity Filter
 
 A groove-valid artist does not automatically become a top album artist.
 
 ---
-
-## Summary
-
-A perfect Mart-coded track:
-
-- is **groove-led**
-- feels **internally alive**
-- has **vocals embedded in the system**
-- maintains **one continuous world**
-- prioritizes **cohesion over perfection**
 
 ### 16. Artist Halo Rejection Rule
 > A compatible artist does not earn automatic track validity.
@@ -175,8 +163,20 @@ A perfect Mart-coded track:
 ---
 
 ### 17. Structural Purity Rule
-> A track only counts in full if its functioning version is the actual track experience.
+> Final track status must be based on the actual released track, not a corrected mental version.
 
-- if the best version requires mentally removing a feature, downgrade it  
-- if one element breaks the system, the track loses full-status  
-- “would be great without X” is not the same as a true pass  
+- if a broken feature, section, or element must be mentally removed for the track to work, the track is downgraded  
+- “would be great without X” is not the same as a full pass  
+- hypothetical repair may explain the failure, but cannot restore full-status
+
+---
+
+## Summary
+
+A perfect Mart-coded track:
+
+- is **groove-led**
+- feels **internally alive**
+- has **vocals embedded in the system**
+- maintains **one continuous world**
+- prioritizes **cohesion over perfection**
