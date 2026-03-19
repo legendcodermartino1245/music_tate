@@ -107,16 +107,41 @@ Two valid categories:
 
 ---
 
-### 12. Voice as Instrument Rule (refined)
-> Voice must function as part of the groove or texture
+### 12. Voice as Instrument Rule (final)
+
+> The voice must function as part of the production system, not as an independent layer.
+
+The vocal should behave as an instrument within the groove and texture, supporting the system rather than leading it.
+
+---
 
 **Pass:**
-- rhythmic phrasing  
-- tonal blending  
+- rhythmically aligned with the groove  
+- dynamically restrained (no dominance spikes)  
+- tonally blended with the instrumentation  
+- perceived as part of the overall texture, not a separate layer  
+
+---
 
 **Fail:**
-- vocal dominance  
-- performance sitting on top of track  
+- overrides groove priority  
+- behaves as an independent performance layer  
+- draws primary attention away from the system  
+- introduces dynamic or emotional spikes that break cohesion  
+
+---
+
+**Evaluation test:**
+- If removing the vocal collapses the track → **fail**  
+- If the track remains structurally intact without the vocal → **pass**  
+
+---
+
+**Embedding scale (for precision, not classification):**
+- **Level 3 — Fully embedded:** indistinguishable from production  
+- **Level 2 — Integrated:** clearly vocal, but system-aligned  
+- **Level 1 — Conditional:** alternates between embedded and detached  
+- **Level 0 — Detached:** functions as a separate performance layer
 
 ---
 
