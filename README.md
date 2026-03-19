@@ -444,3 +444,30 @@ Each artist has a natural way of creating impact (“way of hitting”). This mu
 
 > I evaluate whether an artist succeeds at their own style, before deciding if that style fits my system.
 
+# System Activation Rule
+
+## Definition  
+A track may only fully “activate” when all core elements align into a coherent system. Certain elements (often vocals) can unlock or complete this alignment.
+
+---
+
+## ✔ Positive signals
+- a moment where everything suddenly “clicks”  
+- the track becomes immersive instead of observational  
+- all elements align into one coherent system  
+- the listener shifts from hearing the track to being inside it  
+
+---
+
+## ❌ Failure conditions
+- the track never reaches full alignment  
+- the system feels incomplete or unstable  
+- the track activates briefly but cannot sustain it  
+- different sections operate under different system logic  
+
+---
+
+## 🔑 Core principle
+
+> A great track doesn’t just play — it locks into place.
+
