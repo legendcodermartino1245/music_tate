@@ -31,17 +31,18 @@ The track must feel like:
 
 ---
 
-### 2. Pressureless Flow
-> The system must not generate forward momentum or demand release
+### 2. Pressureless Flow (Revised)
+
+> The system must avoid tension-driven progression and release structures
 
 **Pass:**
-- circular / suspended groove  
-- no sense of “going somewhere”  
+- circular or contained groove
+- controlled forward motion without escalation
 
 **Fail:**
-- propulsion, drive, or push  
-- tension → release structure  
-- energy escalation  
+- tension → release structure
+- dramatic build-ups
+- energy spikes that break system continuity
 
 ---
 
@@ -75,21 +76,30 @@ The track must feel like:
 
 ---
 
-### 6. Living Minimalism
-- system must contain internal motion  
-- micro-variation required  
+### 6. Living Minimalism (Refined)
+
+- system must contain subtle internal motion
+- variation must remain within the same world
 
 **Fail:**
-- static loops  
-- frozen atmosphere  
+- static loops with no evolution
+- excessive variation that breaks cohesion
 
 ---
 
 # 🟠 Structural Integrity Rules
 
-### 7. Feature Integrity
-- all elements must belong to the same system  
-- no competing identities  
+### Intensity Balance
+
+> The system must operate in a controlled mid-intensity range
+
+**Fail:**
+- overly aggressive / forward energy
+- overly soft / passive / floaty systems
+
+**Pass:**
+- groove-present, restrained energy
+- stable, non-pushing motion
 
 ---
 
@@ -114,6 +124,37 @@ The track must feel like:
 
 ### 10. System Integrity > Perfection
 - cohesion outweighs technical quality  
+
+---
+
+
+### Vocal Behavior Constraint
+
+> The vocal must be rhythmically anchored and low-identity
+
+**Pass:**
+- phrasing locks into groove timing
+- vocal blends tonally into production
+- delivery remains controlled and non-dominant
+
+**Fail:**
+- vocal floats above rhythm
+- phrasing detaches from groove
+- vocal identity becomes focal point
+
+---
+
+### Intensity Balance
+
+> The system must operate in a controlled mid-intensity range
+
+**Fail:**
+- overly aggressive / forward energy
+- overly soft / passive / floaty systems
+
+**Pass:**
+- groove-present, restrained energy
+- stable, non-pushing motion
 
 ---
 
