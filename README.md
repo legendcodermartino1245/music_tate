@@ -1,4 +1,4 @@
-# Mart Music System — v9.1 (Closed-Loop Edition)
+# Mart Music System — v9.2 (Refined Loop + Authority Edition)
 
 ---
 
@@ -7,7 +7,7 @@
 A Mart-coded track is:
 
 > **a closed-loop, groove-dominant system  
-with embedded vocals operating inside a continuous, low-pressure environment**
+with vocals operating inside a continuous, low-pressure environment**
 
 The track must feel like:
 
@@ -21,7 +21,7 @@ The track must feel like:
 
 - rhythm = identity  
 - production = environment  
-- vocal = embedded element  
+- vocal = system-bound element  
 
 ---
 
@@ -40,13 +40,13 @@ The track must feel like:
 
 ---
 
-### 2. Percussive Priority
+### 2. Rhythmic Priority (Expanded)
 
 > The groove must be **rhythm-first, not harmony-first**
 
 **Pass:**
 - drums/percussion define identity  
-- syncopation drives system  
+- OR rhythm is defined through **timing, spacing, or repetition**  
 
 **Fail:**
 - chords define emotion  
@@ -108,17 +108,23 @@ The track must feel like:
 
 ---
 
-### 7. Vocal Embedding
+### 7. Vocal Integration (Dual-Mode)
 
-> The vocal is **part of the system — not the subject**
+> The vocal must remain **system-compliant**
 
-**Pass:**
+Two valid modes:
+
+#### Mode A — Embedded Vocal (Primary)
 - sits inside groove  
-- behaves rhythmically  
+- behaves as part of rhythm  
 
-**Fail:**
-- vocal leads attention  
-- vocal overrides groove  
+#### Mode B — Controlled Vocal Authority (Exception)
+- may sit above groove  
+- MUST remain rhythm-locked and system-bound  
+
+**Fail if:**
+- vocal dominates identity  
+- vocal disrupts loop perception  
 
 ---
 
@@ -126,7 +132,7 @@ The track must feel like:
 
 - rhythmically locked phrasing  
 - tonally integrated into mix  
-- low-ego delivery  
+- low-ego or controlled delivery  
 
 **Fail:**
 - floating phrasing  
@@ -142,12 +148,12 @@ The track must feel like:
 **Pass:**
 - restrained  
 - grounded  
-- detached  
+- detached or contained emotion  
 
 **Fail:**
 - gospel energy  
 - dramatic peaks  
-- emotional urgency  
+- emotional escalation  
 
 ---
 
@@ -222,22 +228,21 @@ The track must feel like:
 ### Tier 1.5 — Controlled Loop System
 - slight structure present  
 - loop identity remains dominant  
-- no true “payoff”  
+- no true payoff  
 
-👉 Common in Ciara / Destiny’s Child zone  
+👉 Common hybrid systems  
 
 ---
 
-### Tier 2 — Percussive Identity System
-- groove drives identity  
-- allows light structural influence  
+### Tier 2 — Identity Groove System
+- groove defines identity  
+- allows limited structure  
 
 👉 Acceptable / strong  
 
 ---
 
 ### Tier 3 — Shared Identity System
-
 - melody/vocal shares control  
 
 ❌ Reject  
@@ -262,12 +267,12 @@ The track must feel like:
 Track must pass ALL:
 
 1. Groove Dominance  
-2. Percussive Priority  
+2. Rhythmic Priority  
 3. Closed-Loop Continuity  
 4. Low-Pressure (Macro)  
 5. Internal Motion (Micro)  
 6. Continuous World  
-7. Vocal Embedding  
+7. Vocal Integration  
 8. Mix Spatial Integrity  
 9. Feature Integrity  
 10. Structural Purity  
@@ -279,7 +284,7 @@ Track must pass ALL:
 ## Phase 2 — Qualification
 
 - assign **Groove Tier (1 / 1.5 / 2 / 3)**  
-- rate **Vocal Embedding (0–3)**  
+- rate **Vocal Integration (0–3)**  
 - evaluate **System Strength**  
 
 ---
@@ -290,7 +295,7 @@ Track must pass ALL:
 
 ### Groove Apex Class
 
-> Elite groove systems with **controlled forward motion**
+> Elite systems with **controlled forward motion**
 
 - slight macro violation  
 - still cohesive  
@@ -301,6 +306,13 @@ Track must pass ALL:
 
 - vocal may carry emotion  
 - must remain system-aligned  
+
+---
+
+### Controlled Authority Exception
+
+- vocal may sit on top  
+- must remain rhythm-locked and non-escalating  
 
 ---
 
@@ -317,7 +329,7 @@ Track must pass ALL:
 
 ### Vocal Preference
 - low-ego  
-- soft presence  
+- controlled presence  
 - tonally blended  
 
 ---
@@ -341,7 +353,7 @@ Track must pass ALL:
 This system evaluates:
 
 > **closed-loop, groove-dominant, production-centric systems  
-(commonly expressed through R&B, but not genre-bound)**
+(not genre-bound)**
 
 ---
 
@@ -353,7 +365,7 @@ A perfect Mart-coded track:
 - functions as a **closed-loop system**  
 - avoids **macro progression and release structures**  
 - maintains a **single continuous world**  
-- features **embedded, low-ego vocals**  
+- features **system-compliant vocals (embedded or controlled authority)**  
 - operates in a **cool, controlled emotional state**  
 - uses **space and mix discipline to preserve groove clarity**  
 - feels **alive through micro-motion, not progression**
@@ -361,3 +373,4 @@ A perfect Mart-coded track:
 ---
 
 > **The track behaves as a system — not a performance**
+
