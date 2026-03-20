@@ -1,249 +1,308 @@
-# Mart Music System — v8 (Final)
+# Mart Music System — v9 (Closed-Loop Edition)
 
-## Core Formula
+---
 
-A Mart-coded track functions as:
+## 🧠 Core Definition
 
-> **a low-pressure, groove-defined system  
-with embedded vocal presence inside a continuous environment**
+A Mart-coded track is:
+
+> **a closed-loop, groove-dominant system  
+with embedded vocals operating inside a continuous, low-pressure environment**
 
 The track must feel like:
-> **one self-contained moving system**  
-—not a vocal on top of production
+
+> **a self-sustaining loop — not a progressing performance**
 
 ---
 
-## Primary Identity Rule
+## 🔑 Identity Principle
 
-> **The groove defines the track’s identity**
+> **The groove defines the system — everything else must submit to it**
 
-- rhythm is the primary hook  
-- production defines the world  
-- vocals exist inside that world  
+- rhythm = identity  
+- production = environment  
+- vocal = embedded element  
 
 ---
 
-# 🔴 Core System Rules (Non-negotiable)
+# 🔴 Core System Rules (Non-Negotiable)
+
+---
 
 ### 1. Groove Dominance
-- groove must define identity (Tier 1 or strong Tier 2)  
-- melody or vocal must not override rhythmic authority  
 
----
-
-### 2. Low-Pressure Flow
-
-> The system must avoid tension-driven progression and release structures
-
-**Pass:**
-- circular or contained groove  
-- controlled forward motion without escalation  
-
-**Fail:**
-- tension → release structure  
-- dramatic build-ups  
-- energy spikes that break system continuity  
-
----
-
-### 3. Continuous World
-- track exists in one environment  
-- no structural world-switching  
-- development = expansion, not replacement  
-
----
-
-### 4. Vocal Embedding
-- vocal behaves as part of the system  
-- not an independent performance layer  
+- groove must define identity (**Tier 1 or strong Tier 2**)  
+- no melodic or vocal override  
 
 **Fail if:**
-- vocal dominates attention  
-- introduces emotional spikes  
-- behaves as external identity  
+- melody becomes the hook  
+- vocal becomes focal identity  
 
 ---
 
-### 5. Controlled Emotional Temperature
-> The system must remain **cool-state**
+### 2. Closed-Loop Continuity
+
+> The system must function as an **infinite loop**
 
 **Pass:**
-- restrained, detached, grounded  
+- track can loop seamlessly without loss of identity  
+- no dependence on progression or payoff  
 
 **Fail:**
-- expressive peaks  
-- gospel warmth / emotional urgency  
+- chorus acts as destination  
+- structure implies resolution  
 
 ---
 
-### 6. Living Minimalism
+### 3. Low-Pressure State
 
-- system must contain subtle internal motion  
-- variation must remain within the same world  
-
-**Fail:**
-- static loops with no evolution  
-- excessive variation that breaks cohesion  
-
----
-
-### 7. Vocal Behavior Constraint
-
-> The vocal must be rhythmically anchored and low-identity
+> The system must avoid directional momentum
 
 **Pass:**
-- phrasing locks into groove timing  
-- vocal blends tonally into production  
-- delivery remains controlled and non-dominant  
+- stable energy  
+- no urgency or push  
 
 **Fail:**
-- vocal floats above rhythm  
-- phrasing detaches from groove  
-- vocal identity becomes focal point  
+- build-ups, drops, or release structures  
+- emotional escalation  
 
 ---
 
-# 🟠 Structural Integrity Rules
+### 4. Continuous World Integrity
 
-### 8. Intensity Balance
-
-> The system must operate within a controlled mid-intensity range
-
-**Fail:**
-- overly aggressive / forward energy  
-- overly soft / passive / floaty systems  
+- one environment only  
+- no section introduces a new identity  
 
 **Pass:**
-- groove-present, restrained energy  
-- stable, non-pushing motion  
+- expansion within same system  
+
+**Fail:**
+- beat switches  
+- energy/world resets  
 
 ---
 
-### 9. Feature Integrity
+### 5. Vocal Embedding
 
-- all elements must belong to the same system  
-- no competing identities  
+> The vocal is **part of the system — not the subject**
+
+**Pass:**
+- sits inside groove  
+- behaves rhythmically  
+
+**Fail:**
+- vocal leads attention  
+- vocal overrides groove  
+
+---
+
+### 6. Vocal Behavior Constraint
+
+- rhythmically locked phrasing  
+- tonally integrated into mix  
+- low-ego delivery  
+
+**Fail:**
+- floating phrasing  
+- expressive dominance  
+- identity-driven performance  
+
+---
+
+### 7. Controlled Emotional Temperature
+
+> The system must remain in a **cool-state**
+
+**Pass:**
+- restrained  
+- grounded  
+- detached  
+
+**Fail:**
+- gospel energy  
+- dramatic peaks  
+- emotional urgency  
+
+---
+
+### 8. Internal Motion (Non-Directional)
+
+> The system must feel alive — without progressing
+
+**Pass:**
+- micro-variation (texture, timing, filtering)  
+- subtle evolution inside loop  
+
+**Fail:**
+- changes that imply forward movement  
+- escalation disguised as variation  
+
+---
+
+### 9. Mix Spatial Integrity
+
+> The mix must behave as a **structured space, not a stack**
+
+**Pass:**
+- elements occupy defined zones  
+- groove remains unobstructed  
+
+**Fail:**
+- frequency masking  
+- vocal competes with rhythm  
+- cluttered layering  
+
+---
+
+### 10. Feature & Element Integrity
+
+- all elements must belong to same system  
 
 **Fail if:**
-- gimmick sounds or novelty elements appear  
-- non-integrated SFX break immersion  
-- any element draws attention outside the groove system  
+- feature introduces new identity  
+- gimmicks break immersion  
+- any element pulls focus away from groove  
 
 ---
 
-### 10. Structural Purity
-- track must work as released  
-- no “remove X and it works” logic  
+### 11. Structural Purity
+
+> The track must work **as-is**
+
+**Fail:**
+- “remove X and it works”  
+- dependency on editing  
 
 ---
 
-### 11. Groove Hierarchy
+### 12. Intensity Balance
 
-- **Tier 1 — Hypnotic loop groove**
-  - continuous, circular, no release  
-  - defines the entire system  
+> The system operates in a **controlled mid-zone**
 
-- **Tier 2 — Percussive identity groove**
-  - rhythm drives identity, allows structure  
+**Fail:**
+- too aggressive / forward  
+- too passive / weightless  
 
-- **Tier 3 — Supportive groove**
-  - groove shares role with melody/harmony → reject  
-
----
-
-### 12. System Integrity > Perfection
-- cohesion outweighs technical quality  
+**Pass:**
+- grounded, groove-present, restrained  
 
 ---
 
-# 🟡 Execution Layer (Application Order)
+### 13. System Integrity > Perfection
+
+- cohesion outweighs technical brilliance  
+
+---
+
+# 🟠 Groove Classification
+
+---
+
+### Tier 1 — Hypnotic Loop System
+- circular, self-contained  
+- no release  
+- defines full identity  
+
+👉 Ideal / peak Mart-coded
+
+---
+
+### Tier 2 — Percussive Identity System
+- groove drives identity  
+- allows light structure  
+
+👉 Acceptable / strong
+
+---
+
+### Tier 3 — Shared Identity System
+- melody/vocal shares control  
+
+❌ Reject
+
+---
+
+# 🟡 Execution Layer
+
+---
 
 ## Phase 1 — Hard Gates
 
-A track must pass all gates in order:
+Track must pass:
 
-1. Groove Identity  
-2. Low-Pressure Flow  
-3. Continuous World  
-4. Vocal Embedding  
-5. Living Minimalism  
-6. Feature Integrity  
-7. Structural Purity  
+1. Groove Dominance  
+2. Closed-Loop Continuity  
+3. Low-Pressure State  
+4. Continuous World  
+5. Vocal Embedding  
+6. Internal Motion  
+7. Mix Spatial Integrity  
+8. Feature Integrity  
+9. Structural Purity  
 
-→ failure at any stage = reject  
+→ any failure = reject  
 
 ---
 
 ## Phase 2 — Qualification
 
-After passing Phase 1:
-
-- classify **groove tier (1–3)**  
-- assess **vocal embedding level (0–3)**  
-- rank **overall system strength**  
+- assign **Groove Tier (1–3)**  
+- rate **Vocal Embedding (0–3)**  
+- evaluate **System Strength**  
 
 ---
 
-# 🔵 Exception Layer (Strictly Limited)
-
-### Anchor Element Exception
-- dominant element can preserve cohesion  
-- does **not** convert fail → pass  
+# 🔵 Exception Layer (Strict)
 
 ---
 
 ### Groove Apex Class
-> Tracks with elite groove systems that introduce controlled momentum
 
-- slightly violates Low-Pressure Flow  
-- remains structurally coherent  
-- classified separately, not core system  
+> Elite groove systems with **controlled forward motion**
+
+- slight violation of Low-Pressure  
+- still cohesive  
+
+👉 classified separately  
 
 ---
 
 ### Voice Anchor Exception
+
 - vocal may carry emotion  
-- must remain controlled and system-aligned  
+- must remain system-aligned  
 
 ---
 
-# 🟣 Preference Layer (Post-Validation Only)
+### Anchor Element Exception
 
-### Vocal Ego Suppression
-- prefer low-ego, non-dominant vocals  
+- dominant element allowed  
+- cannot override system identity  
 
 ---
 
-### Writing Alignment
-- writing should support system, not compete  
+# 🟣 Preference Layer (After Validation)
+
+---
+
+### Vocal Preference
+- low-ego  
+- soft presence  
+- tonally blended  
+
+---
+
+### Production Preference
+- minimal  
+- tactile  
+- rhythm-forward  
 
 ---
 
 ### Engineering Preference
-- favor close, tactile, high-definition mixes  
-
----
-
-# 🟢 Safeguards (Anti-Misclassification)
-
-### Cohesion Source
-- groove is default, not exclusive glue  
-
----
-
-### Vocal Removal Test Limitation
-- removal failure requires interpretation  
-- not automatic rejection  
-
----
-
-### Controlled Development
-- escalation allowed if world remains intact  
-
----
-
-### Album Function Separation
-- standalone vs album-role evaluated independently  
+- high-definition  
+- spatial clarity  
+- controlled low-end  
 
 ---
 
@@ -251,9 +310,8 @@ After passing Phase 1:
 
 This system evaluates:
 
-> **groove-led, production-centric R&B systems**
-
-Not universal musical quality.
+> **closed-loop, groove-dominant, production-centric systems  
+(commonly expressed through R&B, but not genre-bound)**
 
 ---
 
@@ -261,12 +319,16 @@ Not universal musical quality.
 
 A perfect Mart-coded track:
 
-- is **groove-defined (Tier 1 or strong Tier 2)**  
-- avoids **tension-driven momentum and release pressure**  
-- maintains a **continuous, single environment**  
-- features **cool, embedded, low-ego vocals**  
-- feels **internally alive but emotionally restrained**  
+- is **groove-defined (Tier 1 / strong Tier 2)**  
+- functions as a **closed-loop system**  
+- avoids **directional energy and release structures**  
+- maintains a **single continuous world**  
+- features **embedded, low-ego vocals**  
+- operates in a **cool, controlled emotional state**  
+- uses **space and mix discipline to preserve groove clarity**  
+- feels **alive without progressing**
 
 ---
 
-> The track behaves as a system — not a performance
+> **The track behaves as a system — not a performance**
+
