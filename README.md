@@ -1,10 +1,10 @@
-# Mart Music System — v7 (Refined / Compressed)
+# Mart Music System — v8 (Final)
 
 ## Core Formula
 
 A Mart-coded track functions as:
 
-> **a pressureless, groove-defined system  
+> **a low-pressure, groove-defined system  
 with embedded vocal presence inside a continuous environment**
 
 The track must feel like:
@@ -31,18 +31,18 @@ The track must feel like:
 
 ---
 
-### 2. Pressureless Flow (Revised)
+### 2. Pressureless Flow
 
 > The system must avoid tension-driven progression and release structures
 
 **Pass:**
-- circular or contained groove
-- controlled forward motion without escalation
+- circular or contained groove  
+- controlled forward motion without escalation  
 
 **Fail:**
-- tension → release structure
-- dramatic build-ups
-- energy spikes that break system continuity
+- tension → release structure  
+- dramatic build-ups  
+- energy spikes that break system continuity  
 
 ---
 
@@ -76,85 +76,83 @@ The track must feel like:
 
 ---
 
-### 6. Living Minimalism (Refined)
+### 6. Living Minimalism
 
-- system must contain subtle internal motion
-- variation must remain within the same world
+- system must contain subtle internal motion  
+- variation must remain within the same world  
 
 **Fail:**
-- static loops with no evolution
-- excessive variation that breaks cohesion
+- static loops with no evolution  
+- excessive variation that breaks cohesion  
+
+---
+
+### 7. Vocal Behavior Constraint
+
+> The vocal must be rhythmically anchored and low-identity
+
+**Pass:**
+- phrasing locks into groove timing  
+- vocal blends tonally into production  
+- delivery remains controlled and non-dominant  
+
+**Fail:**
+- vocal floats above rhythm  
+- phrasing detaches from groove  
+- vocal identity becomes focal point  
 
 ---
 
 # 🟠 Structural Integrity Rules
 
-### Intensity Balance
+### 8. Intensity Balance
 
-> The system must operate in a controlled mid-intensity range
+> The system must operate within a controlled mid-intensity range
 
 **Fail:**
-- overly aggressive / forward energy
-- overly soft / passive / floaty systems
+- overly aggressive / forward energy  
+- overly soft / passive / floaty systems  
 
 **Pass:**
-- groove-present, restrained energy
-- stable, non-pushing motion
+- groove-present, restrained energy  
+- stable, non-pushing motion  
 
 ---
 
-### 8. Structural Purity
+### 9. Feature Integrity
+
+- all elements must belong to the same system  
+- no competing identities  
+
+**Fail if:**
+- gimmick sounds or novelty elements appear  
+- non-integrated SFX break immersion  
+- any element draws attention outside the groove system  
+
+---
+
+### 10. Structural Purity
 - track must work as released  
 - no “remove X and it works” logic  
 
 ---
 
-### 9. Groove Hierarchy
+### 11. Groove Hierarchy
+
 - **Tier 1 — Hypnotic loop groove**
-  - continuous, circular, no release
-  - defines the entire system
+  - continuous, circular, no release  
+  - defines the entire system  
 
 - **Tier 2 — Percussive identity groove**
-  - rhythm drives identity, allows structure
+  - rhythm drives identity, allows structure  
 
 - **Tier 3 — Supportive groove**
   - groove shares role with melody/harmony → reject  
 
 ---
 
-### 10. System Integrity > Perfection
+### 12. System Integrity > Perfection
 - cohesion outweighs technical quality  
-
----
-
-
-### Vocal Behavior Constraint
-
-> The vocal must be rhythmically anchored and low-identity
-
-**Pass:**
-- phrasing locks into groove timing
-- vocal blends tonally into production
-- delivery remains controlled and non-dominant
-
-**Fail:**
-- vocal floats above rhythm
-- phrasing detaches from groove
-- vocal identity becomes focal point
-
----
-
-### Intensity Balance
-
-> The system must operate in a controlled mid-intensity range
-
-**Fail:**
-- overly aggressive / forward energy
-- overly soft / passive / floaty systems
-
-**Pass:**
-- groove-present, restrained energy
-- stable, non-pushing motion
 
 ---
 
@@ -264,7 +262,7 @@ Not universal musical quality.
 A perfect Mart-coded track:
 
 - is **groove-defined (Tier 1 or strong Tier 2)**  
-- has **no forward momentum or release pressure**  
+- avoids **tension-driven momentum and release pressure**  
 - maintains a **continuous, single environment**  
 - features **cool, embedded, low-ego vocals**  
 - feels **internally alive but emotionally restrained**  
