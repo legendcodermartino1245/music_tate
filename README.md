@@ -31,7 +31,7 @@ The track must feel like:
 
 ---
 
-### 2. Pressureless Flow
+### 2. Low-Pressure Flow
 
 > The system must avoid tension-driven progression and release structures
 
@@ -163,7 +163,7 @@ The track must feel like:
 A track must pass all gates in order:
 
 1. Groove Identity  
-2. Pressureless Flow  
+2. Low-Pressure Flow  
 3. Continuous World  
 4. Vocal Embedding  
 5. Living Minimalism  
@@ -195,7 +195,7 @@ After passing Phase 1:
 ### Groove Apex Class
 > Tracks with elite groove systems that introduce controlled momentum
 
-- slightly violates Pressureless Flow  
+- slightly violates Low-Pressure Flow  
 - remains structurally coherent  
 - classified separately, not core system  
 
