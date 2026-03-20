@@ -40,7 +40,22 @@ The track must feel like:
 
 ---
 
-### 2. Closed-Loop Continuity
+### 2. Percussive Priority
+
+> The groove must be **rhythm-first, not harmony-first**
+
+**Pass:**
+- drums/percussion define identity  
+- syncopation drives system  
+
+**Fail:**
+- chords define emotion  
+- pads/piano lead structure  
+- harmonic progression becomes narrative  
+
+---
+
+### 3. Closed-Loop Continuity
 
 > The system must function as an **infinite loop**
 
@@ -54,7 +69,7 @@ The track must feel like:
 
 ---
 
-### 3. Low-Pressure State
+### 4. Low-Pressure State
 
 > The system must avoid directional momentum
 
@@ -68,7 +83,7 @@ The track must feel like:
 
 ---
 
-### 4. Continuous World Integrity
+### 5. Continuous World Integrity
 
 - one environment only  
 - no section introduces a new identity  
@@ -82,7 +97,7 @@ The track must feel like:
 
 ---
 
-### 5. Vocal Embedding
+### 6. Vocal Embedding
 
 > The vocal is **part of the system — not the subject**
 
@@ -96,7 +111,7 @@ The track must feel like:
 
 ---
 
-### 6. Vocal Behavior Constraint
+### 7. Vocal Behavior Constraint
 
 - rhythmically locked phrasing  
 - tonally integrated into mix  
@@ -109,7 +124,7 @@ The track must feel like:
 
 ---
 
-### 7. Controlled Emotional Temperature
+### 8. Controlled Emotional Temperature
 
 > The system must remain in a **cool-state**
 
@@ -125,7 +140,7 @@ The track must feel like:
 
 ---
 
-### 8. Internal Motion (Non-Directional)
+### 9. Internal Motion (Non-Directional)
 
 > The system must feel alive — without progressing
 
@@ -139,7 +154,7 @@ The track must feel like:
 
 ---
 
-### 9. Mix Spatial Integrity
+### 10. Mix Spatial Integrity
 
 > The mix must behave as a **structured space, not a stack**
 
@@ -154,7 +169,7 @@ The track must feel like:
 
 ---
 
-### 10. Feature & Element Integrity
+### 11. Feature & Element Integrity
 
 - all elements must belong to same system  
 
@@ -165,7 +180,7 @@ The track must feel like:
 
 ---
 
-### 11. Structural Purity
+### 12. Structural Purity
 
 > The track must work **as-is**
 
@@ -175,7 +190,7 @@ The track must feel like:
 
 ---
 
-### 12. Intensity Balance
+### 13. Intensity Balance
 
 > The system operates in a **controlled mid-zone**
 
@@ -188,11 +203,9 @@ The track must feel like:
 
 ---
 
-### 13. System Integrity > Perfection
+### 14. System Integrity > Perfection
 
 - cohesion outweighs technical brilliance  
-
----
 
 # 🟠 Groove Classification
 
@@ -228,17 +241,20 @@ The track must feel like:
 
 ## Phase 1 — Hard Gates
 
+> If groove identity is unclear within the first 15–20 seconds → reject
+
 Track must pass:
 
 1. Groove Dominance  
-2. Closed-Loop Continuity  
-3. Low-Pressure State  
-4. Continuous World  
-5. Vocal Embedding  
-6. Internal Motion  
-7. Mix Spatial Integrity  
-8. Feature Integrity  
-9. Structural Purity  
+2. Percussive Priority  
+3. Closed-Loop Continuity  
+4. Low-Pressure State  
+5. Continuous World  
+6. Vocal Embedding  
+7. Internal Motion  
+8. Mix Spatial Integrity  
+9. Feature Integrity  
+10. Structural Purity
 
 → any failure = reject  
 
