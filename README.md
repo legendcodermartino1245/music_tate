@@ -1,4 +1,4 @@
-# Mart Music System — v9.2 (Refined Loop + Authority Edition)
+# 🧠 Mart Music System — Foundation (Prediction & Trackability)
 
 ---
 
@@ -6,371 +6,192 @@
 
 A Mart-coded track is:
 
-> **a closed-loop, groove-dominant system  
-with vocals operating inside a continuous, low-pressure environment**
+> **a continuously trackable system  
+that maintains stable prediction  
+without collapsing under complexity  
+and becomes effortless to follow quickly**
 
 The track must feel like:
 
-> **a self-sustaining loop — not a progressing performance**
+> **a safe, self-sustaining environment — not an event or a timeline**
 
 ---
 
-## 🔑 Identity Principle
+## 🔑 Core Principle
 
-> **The groove defines the system — everything else must submit to it**
+> **The listener must be able to stay inside the system without effort**
 
-- rhythm = identity  
-- production = environment  
-- vocal = system-bound element  
-
----
-
-# 🔴 Core System Rules (Non-Negotiable)
+- prediction must remain stable  
+- behaviour must remain learnable  
+- complexity must remain manageable  
+- the system must reach **low-friction tracking quickly**
 
 ---
 
-### 1. Groove Dominance
+# 🔴 Failure Modes (Non-Negotiable)
 
-- groove must define identity (**Tier 1 / Tier 1.5 / strong Tier 2**)  
-- no melodic or vocal override  
+---
+
+## 1. Prediction Break
+
+> The system introduces elements that **break the listener’s internal model**
 
 **Fail if:**
-- melody becomes the hook  
-- vocal becomes focal identity  
+- unpredictable beat switches  
+- random structural resets  
+- timing inconsistencies  
+- non-repeatable transitions  
+
+👉 Result: **the model breaks — listener is pulled out**
 
 ---
 
-### 2. Rhythmic Priority (Expanded)
+## 2. Prediction Collapse
 
-> The groove must be **rhythm-first, not harmony-first**
-
-**Pass:**
-- drums/percussion define identity  
-- OR rhythm is defined through **timing, spacing, or repetition**  
-
-**Fail:**
-- chords define emotion  
-- pads/piano lead structure  
-- harmonic progression becomes narrative  
-
----
-
-### 3. Closed-Loop Continuity
-
-> The system must function as an **infinite loop**
-
-**Pass:**
-- track can loop seamlessly without loss of identity  
-- no dependence on progression or payoff  
-
-**Fail:**
-- chorus acts as destination  
-- structure implies resolution  
-
----
-
-### 4. Low-Pressure State (Macro)
-
-> The system must avoid **macro-level progression**
-
-**Fail:**
-- build-ups, drops, or release structures  
-- emotional escalation  
-- forward-driving energy arcs  
-
----
-
-### 5. Internal Motion (Micro)
-
-> The system must feel alive **without progressing**
-
-**Pass:**
-- micro-variation (timing, texture, filtering)  
-- subtle groove evolution  
-
-**Fail:**
-- changes that imply forward movement  
-- escalation disguised as variation  
-
----
-
-### 6. Continuous World Integrity
-
-- one environment only  
-- no section introduces a new identity  
-
-**Pass:**
-- expansion within same system  
-
-**Fail:**
-- beat switches  
-- energy/world resets  
-
----
-
-### 7. Vocal Integration (Dual-Mode)
-
-> The vocal must remain **system-compliant**
-
-Two valid modes:
-
-#### Mode A — Embedded Vocal (Primary)
-- sits inside groove  
-- behaves as part of rhythm  
-
-#### Mode B — Controlled Vocal Authority (Exception)
-- may sit above groove  
-- MUST remain rhythm-locked and system-bound  
+> The system becomes **too complex or irregular to track**
 
 **Fail if:**
-- vocal dominates identity  
-- vocal disrupts loop perception  
+- overly busy or dense production  
+- chaotic or inconsistent timing  
+- too many competing elements  
+- no clear, repeatable pattern  
+
+👉 Result: **listener cannot build a stable internal model**
 
 ---
 
-### 8. Vocal Behavior Constraint
-
-- rhythmically locked phrasing  
-- tonally integrated into mix  
-- low-ego or controlled delivery  
-
-**Fail:**
-- floating phrasing  
-- expressive dominance  
-- identity-driven performance  
+# 🟢 Pass Condition
 
 ---
 
-### 9. Controlled Emotional Temperature
+## Continuous Trackability
 
-> The system must remain in a **cool-state**
+> The system must remain **predictable, stable, and followable at all times**
 
-**Pass:**
-- restrained  
-- grounded  
-- detached or contained emotion  
+**Pass if:**
+- timing is consistent  
+- patterns are repeatable  
+- listener can lock in quickly  
+- behaviour remains learnable  
+- complexity stays within tracking limits  
 
-**Fail:**
-- gospel energy  
-- dramatic peaks  
-- emotional escalation  
-
----
-
-### 10. Mix Spatial Integrity
-
-> The mix must behave as a **structured space, not a stack**
-
-**Pass:**
-- elements occupy defined zones  
-- groove remains unobstructed  
-
-**Fail:**
-- frequency masking  
-- vocal competes with rhythm  
-- cluttered layering  
+👉 Result: **continuous immersion**
 
 ---
 
-### 11. Feature & Element Integrity
+## ⏱️ Time-to-Lock (New Core Constraint)
 
-> No second center of gravity
+> The system must become **easy to understand quickly**
+
+**Pass if:**
+- the main pattern is recognizable within seconds  
+- the listener can form a working model early  
+- tracking becomes effortless shortly after  
 
 **Fail if:**
-- feature introduces competing identity  
-- multiple focal points emerge  
-- any element pulls focus away from groove  
+- long “decoding phase” required  
+- structure remains mentally expensive over time  
+
+👉 Result: **low-friction immersion**
 
 ---
 
-### 12. Structural Purity
-
-> The track must work **as-is**
-
-**Fail:**
-- “remove X and it works”  
-- dependency on editing  
+# 🔵 Structural Extension
 
 ---
 
-### 13. Intensity Balance
+## Predictable Structural Evolution
 
-> The system operates in a **controlled mid-zone**
+> The system may change **as long as the change itself is predictable in placement and behaviour**
 
-**Fail:**
-- too aggressive / forward  
-- too passive / weightless  
+**Pass if:**
+- transitions occur at clearly defined or learnable moments  
+- each section forms its own stable system  
+- changes are limited and non-random  
+- the overall structure can be mentally modeled (e.g. multi-phase system)
 
-**Pass:**
-- grounded, groove-present, restrained  
+**Fail if:**
+- changes feel random or frequent  
+- structure cannot be anticipated  
+- transitions reset the listener’s model unpredictably  
 
----
-
-### 14. System Integrity > Perfection
-
-- cohesion outweighs technical brilliance  
-
----
-
-# 🟠 Groove Classification
+👉 Result: **evolution without breaking immersion**
 
 ---
 
-### Tier 1 — Hypnotic Loop System
-- circular, self-contained  
-- no release  
-- defines full identity  
-
-👉 Ideal / peak Mart-coded  
+# 🔵 High-Tier Property (Optional)
 
 ---
 
-### Tier 1.5 — Controlled Loop System
-- slight structure present  
-- loop identity remains dominant  
-- no true payoff  
+## Controlled Prediction Distortion
 
-👉 Common hybrid systems  
+> The system may introduce **novel or sharp elements**  
+> as long as they remain **predictable in behavior and placement**
 
----
+**Pass if:**
+- unusual elements repeat consistently  
+- variation does not break timing  
+- no escalation beyond trackable limits  
 
-### Tier 2 — Identity Groove System
-- groove defines identity  
-- allows limited structure  
-
-👉 Acceptable / strong  
+👉 Result: **stimulation without losing stability**
 
 ---
 
-### Tier 3 — Shared Identity System
-- melody/vocal shares control  
-
-❌ Reject  
+# 🧠 Derived Concepts
 
 ---
 
-# 🟡 Execution Layer
+## Groove
+> Prediction through timing  
+
+## Vocal Integration
+> Prediction through behaviour  
+
+## Structure
+> Prediction across time (including predictable change)
+
+## Atmosphere
+> Prediction through environmental stability  
+
+## Efficiency
+> Speed at which prediction becomes effortless  
 
 ---
 
-## Phase 0 — Instant Filter (0–10s)
-
-> **Head-Nod Test**
-
-- groove locks instantly → continue  
-- attention goes to vocal/melody → reject  
+# 💿 Album-Level Extension (New)
 
 ---
 
-## Phase 1 — Hard Gates
+## Album Consistency Rule
 
-Track must pass ALL:
+> An album passes if it maintains **low-friction, learnable behaviour across tracks**
 
-1. Groove Dominance  
-2. Rhythmic Priority  
-3. Closed-Loop Continuity  
-4. Low-Pressure (Macro)  
-5. Internal Motion (Micro)  
-6. Continuous World  
-7. Vocal Integration  
-8. Mix Spatial Integrity  
-9. Feature Integrity  
-10. Structural Purity  
+**Pass if:**
+- consistent sonic palette  
+- similar structural logic across tracks  
+- majority of tracks reach fast lock-in  
+- minimal behavioural resets between tracks  
 
-→ any failure = reject  
+**Fail if:**
+- large stylistic jumps between tracks  
+- inconsistent rule sets across songs  
+- frequent need to rebuild the listener model  
 
----
-
-## Phase 2 — Qualification
-
-- assign **Groove Tier (1 / 1.5 / 2 / 3)**  
-- rate **Vocal Integration (0–3)**  
-- evaluate **System Strength**  
+👉 Result: **album feels like one extended system**
 
 ---
 
-# 🔵 Exception Layer (Strict)
-
----
-
-### Groove Apex Class
-
-> Elite systems with **controlled forward motion**
-
-- slight macro violation  
-- still cohesive  
-
----
-
-### Voice Anchor Exception
-
-- vocal may carry emotion  
-- must remain system-aligned  
-
----
-
-### Controlled Authority Exception
-
-- vocal may sit on top  
-- must remain rhythm-locked and non-escalating  
-
----
-
-### Anchor Element Exception
-
-- one dominant element allowed  
-- must not override groove identity  
-
----
-
-# 🟣 Preference Layer (After Validation)
-
----
-
-### Vocal Preference
-- low-ego  
-- controlled presence  
-- tonally blended  
-
----
-
-### Production Preference
-- minimal  
-- tactile  
-- rhythm-forward  
-
----
-
-### Engineering Preference
-- high-definition  
-- spatial clarity  
-- controlled low-end  
-
----
-
-# ⚫ System Scope
-
-This system evaluates:
-
-> **closed-loop, groove-dominant, production-centric systems  
-(not genre-bound)**
-
----
-
-# 🧠 Final Definition
+# 🧠 Final Statement
 
 A perfect Mart-coded track:
 
-- is **groove-defined (Tier 1 / 1.5 / strong Tier 2)**  
-- functions as a **closed-loop system**  
-- avoids **macro progression and release structures**  
-- maintains a **single continuous world**  
-- features **system-compliant vocals (embedded or controlled authority)**  
-- operates in a **cool, controlled emotional state**  
-- uses **space and mix discipline to preserve groove clarity**  
-- feels **alive through micro-motion, not progression**
+- maintains **stable prediction**  
+- avoids **prediction break**  
+- avoids **complexity collapse**  
+- becomes **easy to track quickly**  
+- allows **predictable structural evolution**  
+- allows the listener to **stay inside the system effortlessly**
 
 ---
 
-> **The track behaves as a system — not a performance**
-
+> **The track behaves as a stable, learnable system — with low-friction immersion**
