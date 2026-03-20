@@ -1,4 +1,4 @@
-# Mart Music System — v9 (Closed-Loop Edition)
+# Mart Music System — v9.1 (Closed-Loop Edition)
 
 ---
 
@@ -31,7 +31,7 @@ The track must feel like:
 
 ### 1. Groove Dominance
 
-- groove must define identity (**Tier 1 or strong Tier 2**)  
+- groove must define identity (**Tier 1 / Tier 1.5 / strong Tier 2**)  
 - no melodic or vocal override  
 
 **Fail if:**
@@ -69,21 +69,32 @@ The track must feel like:
 
 ---
 
-### 4. Low-Pressure State
+### 4. Low-Pressure State (Macro)
 
-> The system must avoid directional momentum
-
-**Pass:**
-- stable energy  
-- no urgency or push  
+> The system must avoid **macro-level progression**
 
 **Fail:**
 - build-ups, drops, or release structures  
 - emotional escalation  
+- forward-driving energy arcs  
 
 ---
 
-### 5. Continuous World Integrity
+### 5. Internal Motion (Micro)
+
+> The system must feel alive **without progressing**
+
+**Pass:**
+- micro-variation (timing, texture, filtering)  
+- subtle groove evolution  
+
+**Fail:**
+- changes that imply forward movement  
+- escalation disguised as variation  
+
+---
+
+### 6. Continuous World Integrity
 
 - one environment only  
 - no section introduces a new identity  
@@ -97,7 +108,7 @@ The track must feel like:
 
 ---
 
-### 6. Vocal Embedding
+### 7. Vocal Embedding
 
 > The vocal is **part of the system — not the subject**
 
@@ -111,7 +122,7 @@ The track must feel like:
 
 ---
 
-### 7. Vocal Behavior Constraint
+### 8. Vocal Behavior Constraint
 
 - rhythmically locked phrasing  
 - tonally integrated into mix  
@@ -124,7 +135,7 @@ The track must feel like:
 
 ---
 
-### 8. Controlled Emotional Temperature
+### 9. Controlled Emotional Temperature
 
 > The system must remain in a **cool-state**
 
@@ -137,20 +148,6 @@ The track must feel like:
 - gospel energy  
 - dramatic peaks  
 - emotional urgency  
-
----
-
-### 9. Internal Motion (Non-Directional)
-
-> The system must feel alive — without progressing
-
-**Pass:**
-- micro-variation (texture, timing, filtering)  
-- subtle evolution inside loop  
-
-**Fail:**
-- changes that imply forward movement  
-- escalation disguised as variation  
 
 ---
 
@@ -171,11 +168,11 @@ The track must feel like:
 
 ### 11. Feature & Element Integrity
 
-- all elements must belong to same system  
+> No second center of gravity
 
 **Fail if:**
-- feature introduces new identity  
-- gimmicks break immersion  
+- feature introduces competing identity  
+- multiple focal points emerge  
 - any element pulls focus away from groove  
 
 ---
@@ -207,6 +204,8 @@ The track must feel like:
 
 - cohesion outweighs technical brilliance  
 
+---
+
 # 🟠 Groove Classification
 
 ---
@@ -216,22 +215,32 @@ The track must feel like:
 - no release  
 - defines full identity  
 
-👉 Ideal / peak Mart-coded
+👉 Ideal / peak Mart-coded  
+
+---
+
+### Tier 1.5 — Controlled Loop System
+- slight structure present  
+- loop identity remains dominant  
+- no true “payoff”  
+
+👉 Common in Ciara / Destiny’s Child zone  
 
 ---
 
 ### Tier 2 — Percussive Identity System
 - groove drives identity  
-- allows light structure  
+- allows light structural influence  
 
-👉 Acceptable / strong
+👉 Acceptable / strong  
 
 ---
 
 ### Tier 3 — Shared Identity System
+
 - melody/vocal shares control  
 
-❌ Reject
+❌ Reject  
 
 ---
 
@@ -239,22 +248,29 @@ The track must feel like:
 
 ---
 
+## Phase 0 — Instant Filter (0–10s)
+
+> **Head-Nod Test**
+
+- groove locks instantly → continue  
+- attention goes to vocal/melody → reject  
+
+---
+
 ## Phase 1 — Hard Gates
 
-> If groove identity is unclear within the first 15–20 seconds → reject
-
-Track must pass:
+Track must pass ALL:
 
 1. Groove Dominance  
 2. Percussive Priority  
 3. Closed-Loop Continuity  
-4. Low-Pressure State  
-5. Continuous World  
-6. Vocal Embedding  
-7. Internal Motion  
+4. Low-Pressure (Macro)  
+5. Internal Motion (Micro)  
+6. Continuous World  
+7. Vocal Embedding  
 8. Mix Spatial Integrity  
 9. Feature Integrity  
-10. Structural Purity
+10. Structural Purity  
 
 → any failure = reject  
 
@@ -262,7 +278,7 @@ Track must pass:
 
 ## Phase 2 — Qualification
 
-- assign **Groove Tier (1–3)**  
+- assign **Groove Tier (1 / 1.5 / 2 / 3)**  
 - rate **Vocal Embedding (0–3)**  
 - evaluate **System Strength**  
 
@@ -276,10 +292,8 @@ Track must pass:
 
 > Elite groove systems with **controlled forward motion**
 
-- slight violation of Low-Pressure  
+- slight macro violation  
 - still cohesive  
-
-👉 classified separately  
 
 ---
 
@@ -292,8 +306,8 @@ Track must pass:
 
 ### Anchor Element Exception
 
-- dominant element allowed  
-- cannot override system identity  
+- one dominant element allowed  
+- must not override groove identity  
 
 ---
 
@@ -335,16 +349,15 @@ This system evaluates:
 
 A perfect Mart-coded track:
 
-- is **groove-defined (Tier 1 / strong Tier 2)**  
+- is **groove-defined (Tier 1 / 1.5 / strong Tier 2)**  
 - functions as a **closed-loop system**  
-- avoids **directional energy and release structures**  
+- avoids **macro progression and release structures**  
 - maintains a **single continuous world**  
 - features **embedded, low-ego vocals**  
 - operates in a **cool, controlled emotional state**  
 - uses **space and mix discipline to preserve groove clarity**  
-- feels **alive without progressing**
+- feels **alive through micro-motion, not progression**
 
 ---
 
 > **The track behaves as a system — not a performance**
-
